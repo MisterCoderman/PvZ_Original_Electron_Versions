@@ -13,10 +13,15 @@ Improved Performance — Smooth gameplay with no web-related lag or crashes.
 
 Full Screen Support — Play in any resolution you like.
 
+⚙️ Porting Technology
+
+The PC version was ported using Electron, allowing the web-based project to run as a fully native desktop application without the need for a browser or a local web server.
+
 
 # 📥 Download Links
 
-[Direct Download (Windows) — PvZ Original Edition Native](https://archive.org/download/pvz-original/pvz%20original.zip)
+[👉  PvZ Original Edition Native — Native PC Version](https://archive.org/download/pvz-original/pvz%20original.zip)
+[👉 PvZ Original Edition Native — Native MacOS Version (arm64)](https://archive.org/download/pvz-original/ZijieGame-1.0.0-arm64.dmg)
 
 
 # ⚙️ Installation Instructions
@@ -43,10 +48,14 @@ Enjoy classic PvZ without a browser!
 
 Поддержка полноэкранного режима — играйте в любом разрешении.
 
+⚙️ Технология портирования
+
+PC-версия была портирована с использованием Electron, что позволило веб-проекту работать как полноценное нативное приложение для ПК — без необходимости в браузере или локальном веб-сервере.
+
 
 # 📥 Ссылки для скачивания
-
-[Прямое скачивание (Windows) — PvZ Original Edition Native](https://archive.org/download/pvz-original/pvz%20original.zip)
+[👉  PvZ Original Edition Native — Нативная ПК версия](https://archive.org/download/pvz-original/pvz%20original.zip)
+[👉 PvZ Original Edition Native — Нативная MacOS версия (arm64)](https://archive.org/download/pvz-original/ZijieGame-1.0.0-arm64.dmg)
 
 # ⚙️ Инструкция по установке
 

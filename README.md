@@ -21,6 +21,7 @@ The PC version was ported using Electron, allowing the web-based project to run 
 # 📥 Download Links
 
 [👉  PvZ Original Edition Native — Native PC Version](https://archive.org/download/pvz-original/pvz%20original.zip)
+
 [👉 PvZ Original Edition Native — Native MacOS Version (arm64)](https://archive.org/download/pvz-original/ZijieGame-1.0.0-arm64.dmg)
 
 
@@ -55,6 +56,7 @@ PC-версия была портирована с использованием 
 
 # 📥 Ссылки для скачивания
 [👉  PvZ Original Edition Native — Нативная ПК версия](https://archive.org/download/pvz-original/pvz%20original.zip)
+
 [👉 PvZ Original Edition Native — Нативная MacOS версия (arm64)](https://archive.org/download/pvz-original/ZijieGame-1.0.0-arm64.dmg)
 
 # ⚙️ Инструкция по установке

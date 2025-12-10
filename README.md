@@ -12,9 +12,6 @@ Improved Performance — Smooth gameplay with no web-related lag or crashes.
 
 Full Screen Support — Play in any resolution you like.
 
-Preserved Original Gameplay — All plants, zombies, and levels remain faithful to the original web version. 🌱🧟‍♂️
-
-Ready for Mods — Add your own custom content via simple file overrides. 🛠️
 
 # 📥 Download Links
 
@@ -45,9 +42,6 @@ Enjoy classic PvZ without a browser!
 
 Поддержка полноэкранного режима — играйте в любом разрешении.
 
-Сохранён оригинальный геймплей — все растения, зомби и уровни остаются верны оригинальной веб-версии. 🌱🧟‍♂️
-
-Готово к модификациям — добавляйте собственный контент через простое переопределение файлов. 🛠️
 
 # 📥 Ссылки для скачивания
 

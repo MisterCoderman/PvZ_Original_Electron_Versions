@@ -1,8 +1,6 @@
 # 🌟 PvZ Original Edition — Native PC Version
 
-If you love classic tower defense games, PvZ Original Edition is a true gem. The game has been fully rebuilt to run natively on your PC, without requiring a web server or any special browser. The base of the game was taken from the only available web version archived online: [Internet Archive](https://archive.org/details/pvz-original-edition)
-
-. 🎮
+If you love classic tower defense games, PvZ Original Edition is a true gem. The game has been fully rebuilt to run natively on your PC, without requiring a web server or any special browser. The base of the game was taken from the only available web version archived online: [Internet Archive](https://archive.org/details/pvz-original-edition). 🎮
 
 <img width="1331" height="778" alt="изображение" src="https://github.com/user-attachments/assets/9bc6e5e2-a917-45d7-8d90-ea0eb49e4c20" />
 

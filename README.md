@@ -18,7 +18,7 @@ Ready for Mods — Add your own custom content via simple file overrides. 🛠�
 
 # 📥 Download Links
 
-Direct Download (Windows) — PvZ Original Edition Native
+[Direct Download (Windows) — PvZ Original Edition Native](https://archive.org/download/pvz-original/pvz%20original.zip)
 
 
 # ⚙️ Installation Instructions
@@ -51,7 +51,7 @@ Enjoy classic PvZ without a browser!
 
 # 📥 Ссылки для скачивания
 
-Прямое скачивание (Windows) — PvZ Original Edition Native
+[Прямое скачивание (Windows) — PvZ Original Edition Native](https://archive.org/download/pvz-original/pvz%20original.zip)
 
 # ⚙️ Инструкция по установке
 

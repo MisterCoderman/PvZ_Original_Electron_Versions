@@ -4,6 +4,9 @@ If you love classic tower defense games, PvZ Original Edition is a true gem. The
 
 . 🎮
 
+<img width="1331" height="778" alt="изображение" src="https://github.com/user-attachments/assets/9bc6e5e2-a917-45d7-8d90-ea0eb49e4c20" />
+
+
 # 🔧 What’s New in This Edition?
 
 Native PC Launch — Play the game directly on Windows without a browser. 🚀
